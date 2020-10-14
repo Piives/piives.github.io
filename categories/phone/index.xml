@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phone on 使用hugo建的一个小站</title>
+    <link>https://piives.github.io/categories/phone/</link>
+    <description>Recent content in phone on 使用hugo建的一个小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>Copyright &amp;#169; by Steven</copyright><atom:link href="https://piives.github.io/categories/phone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phone</title>
+      <link>https://piives.github.io/customproject/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://piives.github.io/customproject/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://piives.github.io/customproject/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://piives.github.io/customproject/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://piives.github.io/project/anotherphone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://piives.github.io/project/anotherphone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://piives.github.io/project/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://piives.github.io/project/phone/</guid>
+      <description>Project content would go here. You can also redirect using the front matter redirect = &amp;quot;url&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>
